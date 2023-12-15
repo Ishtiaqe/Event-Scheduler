@@ -2921,10 +2921,10 @@
     "@types/range-parser" "*"
     "@types/send" "*"
 
-"@types/express-sslify@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@types/express-sslify/-/express-sslify-1.2.2.tgz#99edbb635a4c13f6d17da59aff8a286792641f14"
-  integrity sha512-vXHxf4CWvwhzjj05dpSaD20EH7pt+snU7en6I6cuQHNbulm7FD60EML6TLxYZb+Oe85AJN2BD1XVX/nHqVFMaQ==
+"@types/express-sslify@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@types/express-sslify/-/express-sslify-1.2.5.tgz#1ee100084d8563ff46feabf0af54c072170f99c4"
+  integrity sha512-SxezXJqojxyTkkemmPQ9bUZQ3xLpzasA/I7bSTqt7tF6L4KNvfOlmcwjZ38tSolkf3oeQu20UVXh74ZBb8IUZA==
   dependencies:
     "@types/express" "*"
 
